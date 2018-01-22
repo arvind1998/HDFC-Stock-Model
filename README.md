@@ -13,6 +13,7 @@ No cross-validation used as the training set already had 43 entries. Since we ha
 Results:
 
 Actual Turnover(dated 18th January, 2018): ₹16654
+
 Predicted Turnover(dated 18th January, 2018): ₹17044
 
-**All predictions are based on that day's features.
+**All predictions are based on that day's features.**
