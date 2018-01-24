@@ -8,7 +8,7 @@ If you have the Quandle Python package already installed, you can use the follow
 
 No feature scaling used as Decision Tree and Random Forest do it internally.
 
-No cross-validation used as the training set already had 43 entries. Since we had to predict only one entry, we would get a more accurate result.
+No cross-validation used as the training set already had 4947 entries. Since we had to predict only one entry, we would get a more accurate result.
 
 Results:
 
