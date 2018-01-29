@@ -16,4 +16,4 @@ Actual Turnover(dated 18th January, 2018): ₹16654
 
 Predicted Turnover(dated 18th January, 2018): ₹13583
 
-Peace!
+
